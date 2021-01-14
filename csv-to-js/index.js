@@ -1,7 +1,7 @@
 const app = require("express")();
 const fs = require("fs");
 
-const input = require("./input");
+const input = require("../read-from-file/index");
 
 const split = (on) => (value) => value.split(on);
 const splitOnBlankLine = split("\n");

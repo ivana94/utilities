@@ -1,0 +1,21 @@
+body {
+    background: #222;
+    padding: 0px;
+    padding-top: 32px;
+}
+
+.wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.card {
+    background-color: white;
+    padding: 32px;
+    border-radius: 8px;
+}
+
+p {
+    margin-bottom: 16px;
+}

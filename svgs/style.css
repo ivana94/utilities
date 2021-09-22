@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wave {
+    fill: rgb(0, 0, 0);
+    width: 100vw;
+    height: 65vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
